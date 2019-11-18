@@ -1,0 +1,6 @@
+application\controller\DataController.class
+application\repository\MockRepositoryStateful.class
+application\Main.class
+application\model\DataModel.class
+application\service\PrimeNumberService.class
+application\model\PrimeNumberResult.class

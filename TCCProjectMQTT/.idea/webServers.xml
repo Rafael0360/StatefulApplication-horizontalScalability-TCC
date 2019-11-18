@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5dfcb36f-5c95-4eed-b6fb-63e6b0a93d7d" name="TCC-T2-micro" url="http://54.162.128.98">
+        <fileTransfer host="54.162.128.98" port="22" privateKey="C:\Users\Rafael Oliveira\Desktop\tcc-key.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
